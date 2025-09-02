@@ -1,4 +1,4 @@
 This project teaches how to create our own functions.
-When i was learning how to create my own function i leant new codes like;
-def, if, return, True, False, Else, import math, math.sqrt, math.gcd, docstrings.
-What was a difficult function to create was quadratic_function 
+While learning to do this, I learned new keywords and concepts such as 
+def, if, else, return, True, False, importing modules with import math, using math.sqrt and math.gcd, and writing docstrings. 
+The most difficult function for me to create was the quadratic_function.
